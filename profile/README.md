@@ -35,7 +35,7 @@ We are dedicated to advancing the field of flying robotics by:
 
 ### Funding and Licenses 💳
 
-- Currently, M-RAL operates independently of any governmental funding.
+- Currently, M-RAL asociation operates independently of any governmental funding.
 - Our software is released under the Business Source License (BSL), while our hardware is covered by the Hardware Source License (HSL).
 - This licensing model guarantees transparent access to our codebase and promotes free usage for research, development, private & community projects and academic endeavors. Commercial use is subject to specific conditions to uphold the integrity of the projects.
 
