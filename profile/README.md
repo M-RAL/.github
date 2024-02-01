@@ -41,7 +41,7 @@ We are dedicated to advancing the field of flying robotics by:
 
 ## Get in Touch 📧
 
-We welcome feedback, collaboration proposals, and inquiries about commercial licenses. Reach out to us at: [MermozRAL.Association@gmail.com](mailto:MermozRAL.Association@gmail.com)
+We welcome feedback, community support, collaboration proposals, and inquiries about commercial licenses. Reach out to us at: [MermozRAL.Association@gmail.com](mailto:MermozRAL.Association@gmail.com)
 
 
 
