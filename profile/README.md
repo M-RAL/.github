@@ -20,10 +20,18 @@ The Mermoz Robotics AeroLab Association, known as M-RAL, is a non-profit organiz
 
 We are dedicated to advancing the field of flying robotics by:
 
-- Developing and providing state-of-the-art flying robotics technologies.
-- Offering both AI Cloud services and AI Edge components tailored for aerial robots.
-- Supplying Edge and Gateway modules designed for seamless integration.
-- Leveraging the newest advancements in AI and Web3 DApps for our projects.
+### Our Mission 🎯
+
+We are dedicated to advancing the field of flying robotics by:
+
+- 🛸 Developing and providing state-of-the-art flying robotics technologies.
+- ☁️ Offering AI Cloud services and AI Edge components tailored for aerial robots.
+- 🔗 Supplying Edge and Gateway modules designed for seamless integration.
+- 🧠 Leveraging the newest advancements in AI and Web3 DApps for our projects.
+- 🚀 Promoting Science & Technology in the fields of airspace, robotics, and AI.
+- 🤖 Advocating for ethical AI usage to guide responsible innovation.
+- 🛡️ Promoting safety in flying robotics to establish Flying Ethics that go beyond regulation.
+
 
 ### Funding and Licenses 💳
 
