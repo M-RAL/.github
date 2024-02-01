@@ -1,4 +1,5 @@
 ## Mermoz Robotics AeroLab Association 
+![M-RAL-Draft-Logo-V0 5_20240201](https://github.com/M-RAL/.github/assets/24481026/b4a6f292-d40a-4cdc-97a8-677ca396e608)
 
 ## Managed Repos:
 
