@@ -1,7 +1,7 @@
 # Mermoz Robotics AeroLab Association (M-RAL) 🚀
 
 <div align="center">
-  <img src="(https://github.com/M-RAL/.github/assets/24481026/4279e165-9e9a-4179-8602-c6c3f9dfc577" width="30%" height="30%">
+  <img src="https://github.com/M-RAL/.github/assets/24481026/4279e165-9e9a-4179-8602-c6c3f9dfc577" width="30%" height="30%">
 </div>
 
 ## Repositories Under Our Management 🗂️
