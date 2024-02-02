@@ -2,6 +2,8 @@
 
 <div align="center">
   <img src="https://github.com/M-RAL/.github/assets/24481026/b4a6f292-d40a-4cdc-97a8-677ca396e608" width="50%" height="50%">
+  ![M-RAL-Draft-Logo-V1 0_20240201](https://github.com/M-RAL/.github/assets/24481026/4279e165-9e9a-4179-8602-c6c3f9dfc577)
+
 </div>
 
 ## Repositories Under Our Management 🗂️
