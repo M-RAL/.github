@@ -1,4 +1,4 @@
-# Mermoz Robotics AeroLab Association (M-RAL) 🚀
+# Mermoz Robotics Association / AeroLab Section (M-RAL) 🚀
 
 <div align="center">
   <img src="https://github.com/M-RAL/.github/assets/24481026/4279e165-9e9a-4179-8602-c6c3f9dfc577" width="30%" height="30%">
@@ -25,7 +25,7 @@ We are dedicated to advancing the field of flying robotics by:
 - 🔗 Supplying Edge and Gateway modules designed for seamless integration.
 - 🧠 Leveraging the newest advancements in AI and Web3 DApps for our projects.
 - 🚀 Promoting Science & Technology in the fields of airspace, robotics, and AI.
-- 🤖 Advocating for ethical AI usage to guide responsible innovation.
+- 🤖 Social Robotcis, advocating for ethical AI usage to guide responsible innovation in robotics.
 - 🛡️ Promoting safety in flying robotics to establish Flying Ethics that go beyond regulation.
 
 
