@@ -6,7 +6,7 @@
 
 ## Repositories Under Our Management 🗂️
 
-- **ASMV Module Project**: [Explore Repositories](https://github.com/orgs/ASMV-Module-Project/repositories)
+- **ASMV Module Project**: [Explore Repositories](https://github.com/ASMV-Module-Project)
 - **Community Open-Thrust**: [Visit Repository](https://github.com/Community-Open-Thrust)
 - **Alliance Open-Thrust**: [Visit Repository](https://github.com/Alliance-Open-Thrust)
 - **Hardware Source Licence**: [Visit Repository](https://github.com/Hardware-Source-Licence/HSL-V1.0)  
